@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/13-05-2026
 excerpt: 'This paper is my first paper.'
 date: 2026-05-13
-venue: 'Pre-print'
+#venue: 'Pre-print'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2605.13519'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
