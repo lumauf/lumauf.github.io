@@ -126,19 +126,27 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Measure Theory, L3",
+      "institution": "Paris 1 - Panthéon Sorbonne",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Linear Algebra, L2",
+      "institution": "Paris 1 Panthéon Sorbonne",
       "description": ""
-    }
+    },
+	{
+		"course": "Statistics, L2",
+		"institution": "Paris 1 - Panthéon Sorbonne",
+		"description": ""
+	},
+	{
+		"course": "Introduction to Python, L1",
+		"institution": "Paris 1 - Panthéon Sorbonne",
+	},
+	{
+		"course": "Mathematics Fundamentals, L1"
+	}
   ],
   "portfolio": [
     {
