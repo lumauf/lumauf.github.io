@@ -35,7 +35,7 @@ Work experience
 
 Skills
 ======
-* Statitics and probability
+* Statistics and probability
 * Computer science
 * Languages: french, english
 
