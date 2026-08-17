@@ -1,34 +1,18 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Lucien Mauffret",
+    "email": "lucien.mauffret@univ-paris1.fr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://lumauf.github.io/",
+    "summary": "I'm currently employed at the Paris 1 - Panthéon Sorbonne University in the SAMM laboratory as a ATER.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "90 rue de Tolbiac",
+      "postalCode": "75013",
+      "city": "Paris",
+      "countryCode": "FR"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+  "profiles": [
+     ]
   },
   "work": [],
   "education": [
@@ -61,7 +45,7 @@
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": ["french", "english"],
   "interests": [],
   "references": [],
   "publications": [
@@ -128,24 +112,27 @@
     {
       "course": "Measure Theory, L3",
       "institution": "Paris 1 - Panthéon Sorbonne",
-      "description": ""
+      "description": "This course acts as an introduction to measure theory: sigma-algebras, measurable spaces and functions, Lebesgue measure construction, Fubini theorems, change of variables. All this is taught with a strong probability thematic approach."
     },
     {
       "course": "Linear Algebra, L2",
       "institution": "Paris 1 Panthéon Sorbonne",
-      "description": ""
+      "description": "This course is the second part of a full introduction to linear algebra, started in the students first year. The goal is to talk about diagonalization, bilinear forms, symmetric endomorphisms."
     },
 	{
 		"course": "Statistics, L2",
 		"institution": "Paris 1 - Panthéon Sorbonne",
-		"description": ""
+		"description": "As a first course in statistics, the basis are presented: random variables and statistics, point estimation, confidence interval, tests."
 	},
 	{
 		"course": "Introduction to Python, L1",
 		"institution": "Paris 1 - Panthéon Sorbonne",
+		"description": "Students often have a low experience at this stage of their life in coding, thus this courses is their to give them a structured approach regarding all the needed basis of python, up to object oriented programming, where it stops."
 	},
 	{
-		"course": "Mathematics Fundamentals, L1"
+		"course": "Mathematics Fundamentals, L1",
+		"institution": "Paris 1 - Panthéon Sorbonne",
+		"description": "This is the first course in mathematics for a student, in the spirit at least. It gives the necessary reflexes in order to perform througout the rest of their upcomming mathematical challenges."
 	}
   ],
   "portfolio": [
