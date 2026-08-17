@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, Paris 1 - Panthéon Sorbonne, 2026-2027 (expected)
+* M2 Ingénierie Statistique & Informatique de la Finance, de l'Assurance et du Risque, Paris 7 - Paris Cité, 2020
+* Licence en Mathématiques at Brest, Université de Bretagne Occidentale, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - 2025: BNP Security Services
+  * Data scientist
+  * The goal was to establish the foundations for a predictive maintenance system for financial applications. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - 2021: EDF Commerce
+  * Data scientist
+  * First, in charge of the profession client datas, my goal was to answer internal needs, using data science tools. After that, I specialized in the development and supervizing of a NLP tool used for the complex task of disidentification and anonymization of documents.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - 2020: EDF DSIT
+  * Data scientist apprentice
+  * In the AI team of the EDF's DSIT, as a soon to become data scientist, a strong emphasis was made on embarked AI (NLP, vision). 
   
+* 2018 - 2019: Data Consultant
+  * Data and developper consultant
+  * I helped different clients regarding their need in understanding their market and developped some useful tools in order to boost their business.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statitics and probability
+* Computer science
+* Languages: french, english
 
 Publications
 ======
@@ -59,6 +57,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Hobbies
 ======
-* Currently signed in to 43 different slack teams
+* I used to play a lot of basketball, still follow closely NBA and international results. I'm 2010 Cadet Champion de Bretagne. I've also coached for two years.
+* I sang in the Chorale Anacrouse de Kerichen and did as much music as I could. 
+* I love skateboard but never find time for it, so I run mainly.
