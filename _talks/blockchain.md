@@ -1,5 +1,5 @@
 ---
-title: "Presentation to blockchain"
+title: "Présentation de la Blockchain"
 collection: talks
 type: "Talk"
 permalink: /talks/blockchain
