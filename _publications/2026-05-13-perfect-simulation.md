@@ -1,7 +1,7 @@
 ---
 title: "Perfect simulation for interacting Hawkes processes with reset-induced variable length memory"
 collection: publications
-category: preprints
+category: publications
 permalink: /publication/13-05-2026-hawkes
 excerpt: 'This paper is my first paper.'
 venue: 'Pre-print'
