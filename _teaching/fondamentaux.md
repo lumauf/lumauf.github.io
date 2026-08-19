@@ -1,8 +1,8 @@
 ---
-title: "Mathicatics Fundamentals"
+title: "Mathematics Fundamentals"
 collection: teaching
 type: "First year teaching"
-permalink: /teaching/python-l1
+permalink: /teaching/fondamentaux
 venue: "Université Paris 1 - Panthéon Sorbonne, MIASHS"
 location: "Paris, France"
 ---
