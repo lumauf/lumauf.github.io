@@ -60,5 +60,7 @@ Teaching
 Hobbies
 ======
 * I used to play a lot of basketball, still follow closely NBA and international results. I'm 2010 Cadet Champion de Bretagne. I've also coached for two years.
-* I sang in the Chorale Anacrouse de Kerichen and did as much music as I could. 
+* I sang in the Chorale Anacrouse de Kerichen and did as much music as I could.
 * I love skateboard but never find time for it, so I run mainly.
+* New book lover, I lately fell for Jane Austen, DH Lawrence and Charlotte Brontë.
+* I play(ed) as much as my time, from beautiful farms to dark castles, from playful caracters to complex anti-heroes, alone or together, all is good for me.
