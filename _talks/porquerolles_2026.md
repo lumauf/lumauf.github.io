@@ -4,7 +4,7 @@ collection: talks
 type: "Seminar"
 permalink: /talks/rjs-2026
 venue: ""
-date: 2025-10-04
+date: 2026-05-21
 location: "RJS, Porquerolles"
 ---
 

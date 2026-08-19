@@ -4,7 +4,7 @@ collection: talks
 type: "Seminar"
 permalink: /talks/seminaire-doctorant-2025
 venue: ""
-date: 2025-10-04
+date: 2026-07-03
 location: "SAMM, Paris 1 - Panthéon Sorbonne"
 ---
 
