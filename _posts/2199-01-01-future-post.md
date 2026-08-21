@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'How triangles transformations inform us on how we see.'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
